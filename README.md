@@ -1,4 +1,4 @@
-# scan-dam
+# Digital/Media Assets Manager
 A Digital/Media Assets Manager built on electron. 
 
 ### Features
